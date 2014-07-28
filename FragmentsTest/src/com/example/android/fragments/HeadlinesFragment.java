@@ -15,7 +15,7 @@
  */
 
 
-//Dayyyyyyy
+//Dayyyy
 package com.example.android.fragments;
 
 import android.app.Activity;
