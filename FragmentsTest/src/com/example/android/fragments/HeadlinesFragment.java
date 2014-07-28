@@ -15,9 +15,7 @@
  */
 
 
-//Local Changessssss
- //remote Changessssss
-
+//Dayyyyyyy
 package com.example.android.fragments;
 
 import android.app.Activity;
