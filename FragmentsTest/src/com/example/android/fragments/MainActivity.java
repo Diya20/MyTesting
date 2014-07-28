@@ -15,7 +15,7 @@
  */
  
  
-//Daya  fgdfhfh fghfg hfgh f hf hgfhgfhgf 
+//Daya MainActivity
  
 package com.example.android.fragments;
 
