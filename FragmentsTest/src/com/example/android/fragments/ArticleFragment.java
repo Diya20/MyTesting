@@ -13,6 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+ 
+ //Add changes by DAYA
+ 
 package com.example.android.fragments;
 
 import android.os.Bundle;
@@ -27,7 +30,7 @@ import com.javacodegeeks.android.fragmentstest.R;
 public class ArticleFragment extends Fragment {
     final static String ARG_POSITION = "position";
     int mCurrentPosition = -1;
-
+  
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, 
         Bundle savedInstanceState) {
