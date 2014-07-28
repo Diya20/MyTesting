@@ -14,9 +14,8 @@
  * limitations under the License.
  */
  
- 
-//Arnold Daya dfdsfdsfdsfs
-//Arnold Daya
+
+//Arnold Daya12345
  
 package com.example.android.fragments;
 
